@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a93273df266191f4699c0b4f39c9dfbf
+  m_SerializeEntries:
+  - m_GUID: 4f624d1f130a87645b963b6323ccf66f
+    m_Address: MyColor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SO
+  - m_GUID: edc64b789fce81b4dbc2eabb57113244
+    m_Address: SceneB
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: d8c55103c51f0294691e9bfc89e8795e
+    m_Address: SoundA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AudioClip
+  - m_GUID: f1fdea6ec0f0c0b4496e4110d715d347
+    m_Address: REMOTE_CHECKER
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SO
+  - m_GUID: 2d84128abbc38414d86b44ec828de5c3
+    m_Address: MyPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SO
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aa782bc009949794ea73b5af28970caf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a6b5251bfe4b78c47ad5ff25146a30d9, type: 2}
+    - {fileID: 11400000, guid: 3275b6e81a965f8418d6ebbba50ef00d, type: 2}
