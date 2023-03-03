@@ -32,13 +32,13 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - AudioClip
-  - m_GUID: f1fdea6ec0f0c0b4496e4110d715d347
-    m_Address: REMOTE_CHECKER
+  - m_GUID: 2d84128abbc38414d86b44ec828de5c3
+    m_Address: MyPrefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - SO
-  - m_GUID: 2d84128abbc38414d86b44ec828de5c3
-    m_Address: MyPrefab
+  - m_GUID: f1fdea6ec0f0c0b4496e4110d715d347
+    m_Address: REMOTE_CHECKER
     m_ReadOnly: 0
     m_SerializedLabels:
     - SO
