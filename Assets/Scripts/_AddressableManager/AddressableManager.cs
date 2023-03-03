@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using _So;
 using TMPro;
 using UnityEngine;
 using UnityEngine.AddressableAssets;

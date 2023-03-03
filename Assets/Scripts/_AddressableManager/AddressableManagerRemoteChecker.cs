@@ -2,7 +2,7 @@
 
 namespace _AddressableManager
 {
-    [CreateAssetMenu(fileName = "FILENAME", menuName = "SO/AddressableManagerRemoteChecker", order = 0)]
+    [CreateAssetMenu(fileName = "FILENAME", menuName = "SO/AddressableManager/RemoteChecker", order = 0)]
     public class AddressableManagerRemoteChecker : ScriptableObject
     {
         
